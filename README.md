@@ -84,7 +84,7 @@ allowing parallel development without affecting the main codebase. Its importanc
   - Example: A project board tracks features and bug fixes, showing which tasks are being worked on and what’s completed.
 
 ---Enhancing Collaboration by:
-  -Centralized Task Management**: Ensures everyone knows what needs to be done.
+  -Centralized Task Management: Ensures everyone knows what needs to be done.
   -Clear Priorities: Helps the team focus on important issues first.
   -Improved Accountability: Assigning tasks increases responsibility and transparency.
 
