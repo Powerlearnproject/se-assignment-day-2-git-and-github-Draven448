@@ -85,8 +85,8 @@ allowing parallel development without affecting the main codebase. Its importanc
 
 ---Enhancing Collaboration by:
   -Centralized Task Management**: Ensures everyone knows what needs to be done.
-  -Clear Priorities**: Helps the team focus on important issues first.
-  -Improved Accountability**: Assigning tasks increases responsibility and transparency.
+  -Clear Priorities: Helps the team focus on important issues first.
+  -Improved Accountability: Assigning tasks increases responsibility and transparency.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 --Merge Conflicts:
@@ -94,8 +94,8 @@ allowing parallel development without affecting the main codebase. Its importanc
     Strategy: Communicate frequently with team members, pull updates regularly, and break tasks into smaller, independent parts.
 
 --Understanding Git Commands:
-    Pitfall: New users may struggle with Git commands (e.g., push, pull, branch).
-    Strategy: Use visual Git clients (like GitHub Desktop) and practice key commands to build confidence.
+    Pitfall: New users may struggle with Git commands.
+    Strategy: Use visual Git clients and practice key commands to build confidence.
 
 --Accidental Overwrites:
     Pitfall: New users might accidentally overwrite changes or lose work by not committing or pushing correctly.
@@ -103,4 +103,4 @@ allowing parallel development without affecting the main codebase. Its importanc
 
 --Inefficient Collaboration:
     Pitfall: Poor collaboration practices, such as not using pull requests, can lead to disorganized development.
-    Strategy: Use pull requests, code reviews, and establish clear branching strategies (e.g., GitFlow).
+    Strategy: Use pull requests, code reviews, and establish clear branching strategies.
